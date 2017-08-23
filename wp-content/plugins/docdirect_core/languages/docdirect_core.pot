@@ -1,0 +1,999 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-27 07:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: hooks/hooks.php:16 hooks/hooks.php:17
+msgid "Import User"
+msgstr ""
+
+#: hooks/hooks.php:67 hooks/hooks.php:156
+msgid "Some error occur, please try again later."
+msgstr ""
+
+#: hooks/hooks.php:70 hooks/hooks.php:159
+msgid "Wrong reCaptcha. Please verify first."
+msgstr ""
+
+#: hooks/hooks.php:75 hooks/hooks.php:164
+msgid "Please enter reCaptcha!"
+msgstr ""
+
+#: hooks/hooks.php:93 hooks/hooks.php:202
+msgid "User name should not be empty."
+msgstr ""
+
+#: hooks/hooks.php:96
+msgid "Password should not be empty."
+msgstr ""
+
+#: hooks/hooks.php:101
+msgid "Wrong username or password."
+msgstr ""
+
+#: hooks/hooks.php:103
+msgid "Successfully Logged in."
+msgstr ""
+
+#: hooks/hooks.php:131 shortcodes/class-registration.php:187
+#: shortcodes/class-registration.php:387
+msgid "Registration is disabled by administrator"
+msgstr ""
+
+#: hooks/hooks.php:179
+msgid "Please select user type."
+msgstr ""
+
+#: hooks/hooks.php:194
+msgid "Please select Directory Type."
+msgstr ""
+
+#: hooks/hooks.php:210
+msgid "Email should not be empty."
+msgstr ""
+
+#: hooks/hooks.php:218
+msgid "Please enter a valid email."
+msgstr ""
+
+#: hooks/hooks.php:225
+msgid "Password is required."
+msgstr ""
+
+#: hooks/hooks.php:232
+msgid "Password is not matched."
+msgstr ""
+
+#: hooks/hooks.php:239
+msgid "Please Check Terms and Conditions"
+msgstr ""
+
+#: hooks/hooks.php:249
+msgid "User already exists. Please try another one."
+msgstr ""
+
+#: hooks/hooks.php:321
+msgid "Your have successfully signup."
+msgstr ""
+
+#: hooks/hooks.php:346
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr ""
+
+#: hooks/hooks.php:347 hooks/hooks.php:376
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: hooks/hooks.php:348 hooks/hooks.php:377
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: hooks/hooks.php:350
+#, php-format
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: hooks/hooks.php:355
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: hooks/hooks.php:356
+#, php-format
+msgid "Your Username: %s"
+msgstr ""
+
+#: hooks/hooks.php:357
+#, php-format
+msgid "Your Password: %s"
+msgstr ""
+
+#: hooks/hooks.php:358
+msgid "Click to login"
+msgstr ""
+
+#: hooks/hooks.php:358
+msgid "  Login"
+msgstr ""
+
+#: hooks/hooks.php:360
+#, php-format
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: hooks/hooks.php:374
+#, php-format
+msgid "Eser deleted %s:"
+msgstr ""
+
+#: hooks/hooks.php:375
+#, php-format
+msgid "An existing user has deleted your account due to following reason: %s"
+msgstr ""
+
+#: hooks/hooks.php:379
+#, php-format
+msgid "[%s] User Deleted"
+msgstr ""
+
+#: hooks/hooks.php:397
+msgid "No kiddies please!"
+msgstr ""
+
+#: hooks/hooks.php:408
+msgid "Message Sent."
+msgstr ""
+
+#: hooks/hooks.php:413
+msgid "Message Fail."
+msgstr ""
+
+#: hooks/hooks.php:431
+msgid "Please fill all fields."
+msgstr ""
+
+#: hooks/hooks.php:438
+msgid "Email address is not valid."
+msgstr ""
+
+#: includes/class-docdirect-core.php:75
+msgid "DocDirect"
+msgstr ""
+
+#: payments/process.php:122 payments/process.php:225
+msgid "Approved"
+msgstr ""
+
+#: payments/process.php:123
+msgid "Paypal"
+msgstr ""
+
+#: payments/process.php:226
+msgid "Authorize.net"
+msgstr ""
+
+#: shortcodes/class-registration.php:35 shortcodes/class-registration.php:236
+msgid "Sign In"
+msgstr ""
+
+#: shortcodes/class-registration.php:36 shortcodes/class-registration.php:298
+msgid "Sign Up"
+msgstr ""
+
+#: shortcodes/class-registration.php:64 shortcodes/class-registration.php:261
+msgid "User Name"
+msgstr ""
+
+#: shortcodes/class-registration.php:67 shortcodes/class-registration.php:154
+#: shortcodes/class-registration.php:264 shortcodes/class-registration.php:354
+msgid "Password"
+msgstr ""
+
+#: shortcodes/class-registration.php:72 shortcodes/class-registration.php:269
+msgid "Remember Me"
+msgstr ""
+
+#: shortcodes/class-registration.php:75 shortcodes/class-registration.php:272
+msgid "Forgot Password"
+msgstr ""
+
+#: shortcodes/class-registration.php:88 shortcodes/class-registration.php:285
+msgid "LOGIN now"
+msgstr ""
+
+#: shortcodes/class-registration.php:94 shortcodes/class-registration.php:291
+msgid "Sign In is disabled by administrator"
+msgstr ""
+
+#: shortcodes/class-registration.php:107 shortcodes/class-registration.php:307
+msgid "Professional"
+msgstr ""
+
+#: shortcodes/class-registration.php:111 shortcodes/class-registration.php:311
+msgid "Visitor"
+msgstr ""
+
+#: shortcodes/class-registration.php:117 shortcodes/class-registration.php:317
+msgid "Select User Type"
+msgstr ""
+
+#: shortcodes/class-registration.php:139 shortcodes/class-registration.php:339
+msgid "Username"
+msgstr ""
+
+#: shortcodes/class-registration.php:142 shortcodes/class-registration.php:342
+msgid "Email"
+msgstr ""
+
+#: shortcodes/class-registration.php:145 shortcodes/class-registration.php:345
+msgid "First Name"
+msgstr ""
+
+#: shortcodes/class-registration.php:148 shortcodes/class-registration.php:348
+msgid "Last Name"
+msgstr ""
+
+#: shortcodes/class-registration.php:151 shortcodes/class-registration.php:351
+msgid "Phone Number"
+msgstr ""
+
+#: shortcodes/class-registration.php:157 shortcodes/class-registration.php:357
+msgid "Confirm Password"
+msgstr ""
+
+#: shortcodes/class-registration.php:164 shortcodes/class-registration.php:364
+msgid "Terms"
+msgstr ""
+
+#: shortcodes/class-registration.php:165 shortcodes/class-registration.php:167
+#: shortcodes/class-registration.php:365 shortcodes/class-registration.php:367
+msgid " I agree with the terms and conditions"
+msgstr ""
+
+#: shortcodes/class-registration.php:181 shortcodes/class-registration.php:381
+msgid "Create an Account"
+msgstr ""
+
+#: shortcodes/class-registration.php:227
+msgid "Hello"
+msgstr ""
+
+#: shortcodes/class-registration.php:227
+msgid "not"
+msgstr ""
+
+#: shortcodes/class-registration.php:227
+msgid "Sign out"
+msgstr ""
+
+#: shortcodes/class-registration.php:229
+msgid "You can view your dashboard here"
+msgstr ""
+
+#: shortcodes/class-registration.php:229
+msgid "View"
+msgstr ""
+
+#: shortcodes/class-registration.php:236
+msgid "Sign In with your username and password"
+msgstr ""
+
+#: shortcodes/class-registration.php:298
+msgid "Sign Up as Vistor or professional."
+msgstr ""
+
+#: core/post-types/appointments.php:32 core/post-types/appointments.php:33
+msgid "Appointments"
+msgstr ""
+
+#: core/post-types/appointments.php:34
+msgid "Appointment"
+msgstr ""
+
+#: core/post-types/appointments.php:35
+msgid "Add Appointment"
+msgstr ""
+
+#: core/post-types/appointments.php:36
+msgid "Add New Appointment"
+msgstr ""
+
+#: core/post-types/appointments.php:37 core/post-types/claims.php:38
+#: core/post-types/directory_packages.php:35
+#: core/post-types/directory_types.php:40 core/post-types/invoices.php:37
+#: core/post-types/orders.php:37 core/post-types/reviews.php:38
+msgid "Edit"
+msgstr ""
+
+#: core/post-types/appointments.php:38
+msgid "Edit Appointment"
+msgstr ""
+
+#: core/post-types/appointments.php:39
+msgid "New Appointment"
+msgstr ""
+
+#: core/post-types/appointments.php:40 core/post-types/appointments.php:41
+msgid "View Appointment"
+msgstr ""
+
+#: core/post-types/appointments.php:42
+msgid "Search Appointment"
+msgstr ""
+
+#: core/post-types/appointments.php:43
+msgid "No Appointment found"
+msgstr ""
+
+#: core/post-types/appointments.php:44
+msgid "No Appointment found in trash"
+msgstr ""
+
+#: core/post-types/appointments.php:45
+msgid "Parent Appointment"
+msgstr ""
+
+#: core/post-types/appointments.php:76
+msgid "Appointment From"
+msgstr ""
+
+#: core/post-types/appointments.php:77
+msgid "Appointment To"
+msgstr ""
+
+#: core/post-types/appointments.php:78 core/post-types/appointments.php:252
+msgid "Contact Number"
+msgstr ""
+
+#: core/post-types/appointments.php:129
+msgid "Appointment Info"
+msgstr ""
+
+#: core/post-types/appointments.php:141
+msgid "Appointment Detail"
+msgstr ""
+
+#: core/post-types/appointments.php:204 core/post-types/appointments.php:205
+#: core/post-types/appointments.php:206 core/post-types/appointments.php:207
+#: core/post-types/appointments.php:208 core/post-types/appointments.php:209
+#: core/post-types/appointments.php:210 core/post-types/appointments.php:211
+#: core/post-types/appointments.php:212 core/post-types/appointments.php:213
+#: core/post-types/appointments.php:214 core/post-types/appointments.php:215
+#: core/post-types/appointments.php:216 core/post-types/appointments.php:217
+#: core/post-types/appointments.php:218 core/post-types/appointments.php:222
+#: core/post-types/appointments.php:308 core/post-types/appointments.php:310
+#: core/post-types/claims.php:112 core/post-types/claims.php:113
+#: core/post-types/invoices.php:184 core/post-types/invoices.php:185
+#: core/post-types/invoices.php:186 core/post-types/invoices.php:187
+#: core/post-types/invoices.php:188 core/post-types/invoices.php:189
+#: core/post-types/invoices.php:190 core/post-types/invoices.php:191
+#: core/post-types/invoices.php:192 core/post-types/invoices.php:193
+#: core/post-types/invoices.php:194 core/post-types/invoices.php:195
+#: core/post-types/invoices.php:196 core/post-types/invoices.php:197
+#: core/post-types/invoices.php:198 core/post-types/invoices.php:200
+#: core/post-types/invoices.php:258 core/post-types/orders.php:169
+#: core/post-types/orders.php:170 core/post-types/orders.php:171
+#: core/post-types/orders.php:172 core/post-types/orders.php:174
+#: core/post-types/orders.php:176 core/post-types/orders.php:177
+#: core/post-types/orders.php:184 core/post-types/orders.php:185
+#: core/post-types/orders.php:186 core/post-types/orders.php:187
+#: core/post-types/orders.php:188 core/post-types/orders.php:189
+#: core/post-types/orders.php:190 core/post-types/orders.php:191
+#: core/post-types/orders.php:192 core/post-types/orders.php:193
+msgid "NILL"
+msgstr ""
+
+#: core/post-types/appointments.php:228
+msgid "Tracking id"
+msgstr ""
+
+#: core/post-types/appointments.php:232
+msgid "Appointment Date"
+msgstr ""
+
+#: core/post-types/appointments.php:237
+msgid "Appointment Category"
+msgstr ""
+
+#: core/post-types/appointments.php:243
+msgid "Appointment Service"
+msgstr ""
+
+#: core/post-types/appointments.php:248
+msgid "Appointment Fee"
+msgstr ""
+
+#: core/post-types/appointments.php:257 core/post-types/reviews.php:137
+msgid "User From"
+msgstr ""
+
+#: core/post-types/appointments.php:258 core/post-types/appointments.php:264
+#: core/post-types/claims.php:121 core/post-types/claims.php:127
+#: core/post-types/invoices.php:241 core/post-types/orders.php:233
+#: core/post-types/reviews.php:119 core/post-types/reviews.php:125
+msgid "Click for user details"
+msgstr ""
+
+#: core/post-types/appointments.php:263 core/post-types/reviews.php:138
+msgid "User To"
+msgstr ""
+
+#: core/post-types/appointments.php:269
+msgid "Booking Status"
+msgstr ""
+
+#: core/post-types/appointments.php:275 core/post-types/invoices.php:219
+#: core/post-types/orders.php:207
+msgid "Payment Status"
+msgstr ""
+
+#: core/post-types/appointments.php:281 core/post-types/invoices.php:80
+#: core/post-types/invoices.php:223 core/post-types/orders.php:76
+msgid "Payment Method"
+msgstr ""
+
+#: core/post-types/appointments.php:287
+msgid "Metting Time"
+msgstr ""
+
+#: core/post-types/appointments.php:292
+msgid "Note"
+msgstr ""
+
+#: core/post-types/appointments.php:316
+msgid "Booking Code"
+msgstr ""
+
+#: core/post-types/claims.php:33 core/post-types/claims.php:34
+msgid "Claim/Reports"
+msgstr ""
+
+#: core/post-types/claims.php:35
+msgid "Claim/Report"
+msgstr ""
+
+#: core/post-types/claims.php:36
+msgid "Add Claim/Report"
+msgstr ""
+
+#: core/post-types/claims.php:37
+msgid "Add New Claim/Report"
+msgstr ""
+
+#: core/post-types/claims.php:39
+msgid "Edit Claim/Report"
+msgstr ""
+
+#: core/post-types/claims.php:40
+msgid "New Claim/Report"
+msgstr ""
+
+#: core/post-types/claims.php:41 core/post-types/claims.php:42
+msgid "View Claim/Report"
+msgstr ""
+
+#: core/post-types/claims.php:43
+msgid "Search Claim/Report"
+msgstr ""
+
+#: core/post-types/claims.php:44
+msgid "No Claim/Report found"
+msgstr ""
+
+#: core/post-types/claims.php:45
+msgid "No Claim/Report found in trash"
+msgstr ""
+
+#: core/post-types/claims.php:46
+msgid "Parent Claim/Report"
+msgstr ""
+
+#: core/post-types/claims.php:79
+msgid "Claim/Report Detail"
+msgstr ""
+
+#: core/post-types/claims.php:120 core/post-types/claims.php:144
+msgid "Reported By"
+msgstr ""
+
+#: core/post-types/claims.php:126
+msgid "Reported To"
+msgstr ""
+
+#: core/post-types/claims.php:131
+msgid "Report/Claim Detail"
+msgstr ""
+
+#: core/post-types/claims.php:145
+msgid "Reported against"
+msgstr ""
+
+#: core/post-types/directory_packages.php:30
+#: core/post-types/directory_packages.php:31
+msgid "Packages"
+msgstr ""
+
+#: core/post-types/directory_packages.php:32 core/post-types/invoices.php:79
+#: core/post-types/invoices.php:211 core/post-types/orders.php:75
+#: core/post-types/orders.php:215
+msgid "Package"
+msgstr ""
+
+#: core/post-types/directory_packages.php:33
+msgid "Add Package"
+msgstr ""
+
+#: core/post-types/directory_packages.php:34
+msgid "Add New Package"
+msgstr ""
+
+#: core/post-types/directory_packages.php:36
+msgid "Edit Package"
+msgstr ""
+
+#: core/post-types/directory_packages.php:37
+msgid "New Package"
+msgstr ""
+
+#: core/post-types/directory_packages.php:38
+#: core/post-types/directory_packages.php:39
+msgid "View Package"
+msgstr ""
+
+#: core/post-types/directory_packages.php:40
+msgid "Search Package"
+msgstr ""
+
+#: core/post-types/directory_packages.php:41
+msgid "No Package found"
+msgstr ""
+
+#: core/post-types/directory_packages.php:42
+msgid "No Package found in trash"
+msgstr ""
+
+#: core/post-types/directory_packages.php:43
+msgid "Parent Package"
+msgstr ""
+
+#: core/post-types/directory_packages.php:47
+msgid "This is where you can add new Package"
+msgstr ""
+
+#: core/post-types/directory_packages.php:74 core/post-types/invoices.php:82
+#: core/post-types/orders.php:78
+msgid "Price"
+msgstr ""
+
+#: core/post-types/directory_packages.php:75
+msgid "Duration"
+msgstr ""
+
+#: core/post-types/directory_types.php:35
+#: core/post-types/directory_types.php:36
+msgid "Directory Types"
+msgstr ""
+
+#: core/post-types/directory_types.php:37
+msgid "Directory Type"
+msgstr ""
+
+#: core/post-types/directory_types.php:38
+msgid "Add Directory Type"
+msgstr ""
+
+#: core/post-types/directory_types.php:39
+msgid "Add New Directory Type"
+msgstr ""
+
+#: core/post-types/directory_types.php:41
+msgid "Edit Directory Type"
+msgstr ""
+
+#: core/post-types/directory_types.php:42
+msgid "New Directory Type"
+msgstr ""
+
+#: core/post-types/directory_types.php:43
+#: core/post-types/directory_types.php:44
+msgid "View Directory Type"
+msgstr ""
+
+#: core/post-types/directory_types.php:45
+msgid "Search Directory Type"
+msgstr ""
+
+#: core/post-types/directory_types.php:46
+msgid "No Directory Type found"
+msgstr ""
+
+#: core/post-types/directory_types.php:47
+msgid "No Directory Type found in trash"
+msgstr ""
+
+#: core/post-types/directory_types.php:48
+msgid "Parent Directory Type"
+msgstr ""
+
+#: core/post-types/directory_types.php:52
+msgid "This is where you can add new Directory Type"
+msgstr ""
+
+#: core/post-types/directory_types.php:72
+msgid "Search Location"
+msgstr ""
+
+#: core/post-types/directory_types.php:73
+msgid "All Location"
+msgstr ""
+
+#: core/post-types/directory_types.php:74
+msgid "Parent Location"
+msgstr ""
+
+#: core/post-types/directory_types.php:75
+msgid "Parent Location:"
+msgstr ""
+
+#: core/post-types/directory_types.php:76
+msgid "Edit Location"
+msgstr ""
+
+#: core/post-types/directory_types.php:77
+msgid "Update Location"
+msgstr ""
+
+#: core/post-types/directory_types.php:78
+msgid "Add New Location"
+msgstr ""
+
+#: core/post-types/directory_types.php:79
+msgid "New Location Name"
+msgstr ""
+
+#: core/post-types/directory_types.php:80
+msgid "Locations (Cities)"
+msgstr ""
+
+#: core/post-types/directory_types.php:96
+msgid "Search Speciality"
+msgstr ""
+
+#: core/post-types/directory_types.php:97
+msgid "All Speciality"
+msgstr ""
+
+#: core/post-types/directory_types.php:98
+msgid "Parent Speciality"
+msgstr ""
+
+#: core/post-types/directory_types.php:99
+msgid "Parent Speciality:"
+msgstr ""
+
+#: core/post-types/directory_types.php:100
+msgid "Edit Speciality"
+msgstr ""
+
+#: core/post-types/directory_types.php:101
+msgid "Update Speciality"
+msgstr ""
+
+#: core/post-types/directory_types.php:102
+msgid "Add New Speciality"
+msgstr ""
+
+#: core/post-types/directory_types.php:103
+msgid "New Speciality Name"
+msgstr ""
+
+#: core/post-types/directory_types.php:104
+msgid "Specialities"
+msgstr ""
+
+#: core/post-types/directory_types.php:121
+msgid "Search Insurance"
+msgstr ""
+
+#: core/post-types/directory_types.php:122
+msgid "All Insurance"
+msgstr ""
+
+#: core/post-types/directory_types.php:123
+msgid "Parent Insurance"
+msgstr ""
+
+#: core/post-types/directory_types.php:124
+msgid "Parent Insurance:"
+msgstr ""
+
+#: core/post-types/directory_types.php:125
+msgid "Edit Insurance"
+msgstr ""
+
+#: core/post-types/directory_types.php:126
+msgid "Update Insurance"
+msgstr ""
+
+#: core/post-types/directory_types.php:127
+msgid "Add New Insurance"
+msgstr ""
+
+#: core/post-types/directory_types.php:128
+msgid "New Insurance Name"
+msgstr ""
+
+#: core/post-types/directory_types.php:129
+msgid "Insurance"
+msgstr ""
+
+#: core/post-types/directory_types.php:156
+#: core/post-types/directory_types.php:220
+msgid "Insurance logo"
+msgstr ""
+
+#: core/post-types/directory_types.php:159
+#: core/post-types/directory_types.php:223
+msgid "Uplaod insurance logo"
+msgstr ""
+
+#: core/post-types/invoices.php:32 core/post-types/invoices.php:33
+msgid "Invoices"
+msgstr ""
+
+#: core/post-types/invoices.php:34
+msgid "Invoice"
+msgstr ""
+
+#: core/post-types/invoices.php:35
+msgid "Add Invoice"
+msgstr ""
+
+#: core/post-types/invoices.php:36
+msgid "Add New Invoice"
+msgstr ""
+
+#: core/post-types/invoices.php:38
+msgid "Edit Invoice"
+msgstr ""
+
+#: core/post-types/invoices.php:39
+msgid "New Invoice"
+msgstr ""
+
+#: core/post-types/invoices.php:40 core/post-types/invoices.php:41
+msgid "View Invoice"
+msgstr ""
+
+#: core/post-types/invoices.php:42
+msgid "Search Invoice"
+msgstr ""
+
+#: core/post-types/invoices.php:43
+msgid "No Invoice found"
+msgstr ""
+
+#: core/post-types/invoices.php:44
+msgid "No Invoice found in trash"
+msgstr ""
+
+#: core/post-types/invoices.php:45
+msgid "Parent Invoice"
+msgstr ""
+
+#: core/post-types/invoices.php:81 core/post-types/invoices.php:240
+#: core/post-types/orders.php:77 core/post-types/orders.php:232
+msgid "User"
+msgstr ""
+
+#: core/post-types/invoices.php:133
+msgid "INVOICE INFO"
+msgstr ""
+
+#: core/post-types/invoices.php:144
+msgid "INVOICE DETAIL"
+msgstr ""
+
+#: core/post-types/invoices.php:207 core/post-types/orders.php:203
+msgid "Transaction ID"
+msgstr ""
+
+#: core/post-types/invoices.php:215
+msgid "Payment Amount"
+msgstr ""
+
+#: core/post-types/invoices.php:227
+msgid "Payment Date"
+msgstr ""
+
+#: core/post-types/invoices.php:231
+msgid "Payer Name"
+msgstr ""
+
+#: core/post-types/invoices.php:235
+msgid "Payer Address"
+msgstr ""
+
+#: core/post-types/invoices.php:264
+msgid "Invoice ID"
+msgstr ""
+
+#: core/post-types/orders.php:32 core/post-types/orders.php:33
+msgid "Orders"
+msgstr ""
+
+#: core/post-types/orders.php:34
+msgid "Order"
+msgstr ""
+
+#: core/post-types/orders.php:35
+msgid "Add Order"
+msgstr ""
+
+#: core/post-types/orders.php:36
+msgid "Add New Order"
+msgstr ""
+
+#: core/post-types/orders.php:38
+msgid "Edit Order"
+msgstr ""
+
+#: core/post-types/orders.php:39
+msgid "New Order"
+msgstr ""
+
+#: core/post-types/orders.php:40 core/post-types/orders.php:41
+msgid "View Order"
+msgstr ""
+
+#: core/post-types/orders.php:42
+msgid "Search Order"
+msgstr ""
+
+#: core/post-types/orders.php:43
+msgid "No Order found"
+msgstr ""
+
+#: core/post-types/orders.php:44
+msgid "No Order found in trash"
+msgstr ""
+
+#: core/post-types/orders.php:45
+msgid "Parent Order"
+msgstr ""
+
+#: core/post-types/orders.php:137
+msgid "ORDER INFO"
+msgstr ""
+
+#: core/post-types/orders.php:199
+msgid "Order ID"
+msgstr ""
+
+#: core/post-types/orders.php:211
+msgid "Payment Option"
+msgstr ""
+
+#: core/post-types/orders.php:219
+msgid "Package Price"
+msgstr ""
+
+#: core/post-types/orders.php:223
+msgid "Purchase Date"
+msgstr ""
+
+#: core/post-types/orders.php:227
+msgid "Expiry Date"
+msgstr ""
+
+#: core/post-types/reviews.php:33 core/post-types/reviews.php:34
+msgid "Reviews"
+msgstr ""
+
+#: core/post-types/reviews.php:35
+msgid "Review"
+msgstr ""
+
+#: core/post-types/reviews.php:36
+msgid "Add Review"
+msgstr ""
+
+#: core/post-types/reviews.php:37
+msgid "Add New Review"
+msgstr ""
+
+#: core/post-types/reviews.php:39
+msgid "Edit Review"
+msgstr ""
+
+#: core/post-types/reviews.php:40
+msgid "New Review"
+msgstr ""
+
+#: core/post-types/reviews.php:41 core/post-types/reviews.php:42
+msgid "View Review"
+msgstr ""
+
+#: core/post-types/reviews.php:43
+msgid "Search Review"
+msgstr ""
+
+#: core/post-types/reviews.php:44
+msgid "No Review found"
+msgstr ""
+
+#: core/post-types/reviews.php:45
+msgid "No Review found in trash"
+msgstr ""
+
+#: core/post-types/reviews.php:46
+msgid "Parent Review"
+msgstr ""
+
+#: core/post-types/reviews.php:78
+msgid "REVIEW INFO"
+msgstr ""
+
+#: core/post-types/reviews.php:109
+msgid "Review Subject"
+msgstr ""
+
+#: core/post-types/reviews.php:113 core/post-types/reviews.php:139
+msgid "Rating"
+msgstr ""
+
+#: core/post-types/reviews.php:118
+msgid "Review By"
+msgstr ""
+
+#: core/post-types/reviews.php:124
+msgid "Review To"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:57
+msgid "No list selected yet! please contact administrator"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:76
+msgid "Subscribe Successfully"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:81
+msgid "Some error occur, Please try again later."
+msgstr ""
+
+#. Name of the plugin
+msgid "DocDirect Core"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin is used for creating custom post types and other functionality "
+"for DocDirect Theme"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://themographics.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themographics"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/themographics"
+msgstr ""
